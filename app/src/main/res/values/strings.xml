@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">kotlin_listview</string>
+    <string-array name="actor">
+        <item>Salman khan</item>
+        <item>Akshya kumar</item>
+        <item>Amir khan</item>
+        <item>NTR</item>
+        <item>Ravi teja</item>
+        <item>Sharukh khan</item>
+        <item>Allu arjun</item>
+        <item>Rajani kant</item>
+        <item>Ranveer singh</item>
+    </string-array>
+</resources>
